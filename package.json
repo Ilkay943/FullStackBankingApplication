@@ -1,0 +1,22 @@
+{
+  "name": "badbank_three_tiers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "firebase": "^9.20.0",
+    "http-server": "^14.1.0",
+    "js-md5": "^0.7.3",
+    "mongodb": "^4.16.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "![BadBank_Look](https://user-images.githubusercontent.com/51896051/174496347-8fcbc557-0666-481c-baad-86c56f2c3dfa.PNG) ## Description #### This full-stack app was created as a final project for MIT Full-Stack Application bootcamp. It uses MERN with MongoDB Atalas to have a cloud base web application. Firebase is used for Web Authentication. Heroku is used as the deployment tool."
+}
