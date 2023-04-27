@@ -3,7 +3,7 @@
 This full stack banking application is final project for MIT bootcamp. I have used MongoDB, Express, React, Firebase, Postman, Docker to build this application.
 ## How to use
 Simply clone the repo to your computer
-Use terminal to instal dependencies 
+Use terminal to instal dependencies (npm install) 
 Then start the index.js and it is running on port 3001
 
 ## Features
